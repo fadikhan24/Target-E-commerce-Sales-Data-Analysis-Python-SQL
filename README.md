@@ -5,6 +5,7 @@ Project Overview
 The goal of this project is to analyze Target's e-commerce sales data to uncover key insights and trends that can help improve business strategies and decision-making. The project is divided into several key steps, including data extraction, cleaning, transformation, analysis, and visualization.
 
 Features
+• Data set is used from kaggle. https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv
 • Data Extraction: Utilizing SQL to extract sales data from the database.
 • Data Cleaning: Handling missing values, duplicates, and data inconsistencies using Python.
 • Data Transformation: Structuring and normalizing the data for analysis.
